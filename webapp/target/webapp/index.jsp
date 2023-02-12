@@ -1,5 +1,11 @@
-mvn <html>
+<html>
 <body>
-<h2>Hello World!</h2>
+<<<<<<< HEAD
+<h1>GROUPE CINQ</h1>
+<h2>BONJOUR CLASS</h2>
+=======
+  <h1>GROUPE 5</h1>
+<h2>Bonjour à tous et à toutes </h2>
+>>>>>>> 7b6f53125208643f151173324290ce838c817022
 </body>
 </html>
